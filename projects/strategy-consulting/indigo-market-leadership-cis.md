@@ -10,8 +10,6 @@ A strategic assessment of InterGlobe Aviation Limited (IndiGo)'s sustained compe
 Strategy / Consulting
 
 ## Repository location
-**Hosted in `Consulting-Projects`** — this project's full files (report, deck, and evidence library) live in that repository, not here, to avoid publishing the same deliverable in two portfolios.
-
-🔗 Link: *[Consulting-Projects repository — placeholder until that repository is created/published]*
+**Hosted in `Consulting-Projects` — link pending publication.** This project's full files (report, deck, and evidence library) live in that repository, not here, to avoid publishing the same deliverable in two portfolios. No URL is listed because that repository does not yet exist / is not yet published — this will be updated once it is.
 
 See `docs/academic-index.md` for the full academic traceability record (term, professor, project type).
